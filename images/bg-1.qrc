@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="bac_image">
+    <file>Temporary-tooth-icon.png</file>
+    <file>logo.png</file>
+    <file>cabinet.jpg</file>
+  </qresource>
+</RCC>
